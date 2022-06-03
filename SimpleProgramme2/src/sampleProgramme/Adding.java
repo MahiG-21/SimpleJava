@@ -7,6 +7,8 @@ public class Adding extends Subclass {
     Subclass add= new Subclass();
     add.sum(2, 3);
    System.out.println( add.sums(3, 6));
+		
+		System.out.println("6th june");
    
    
    
